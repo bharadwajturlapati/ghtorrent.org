@@ -11,7 +11,7 @@ GHTorrent checkout, i.e. `cd github-mirror`.
 
 ## General information
 
-All GHTorrent commands accept the following important arguments:
+All GHTorrent commands accept the following important arguments: random
 
 * `-c`: Specifies the location of the configuration file. The config file is
 auto discovered if it is in the same directory and named `config.yaml`
